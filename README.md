@@ -1,0 +1,2 @@
+# FixAspectSample
+【uGUI】元サイズに合わせて適切にアスペクト比を修正するRawImageの拡張クラス【FixAspectExtensions】
